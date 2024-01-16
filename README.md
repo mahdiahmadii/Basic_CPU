@@ -34,7 +34,7 @@ Follow the instructions below to get a copy of the project up and running on you
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/simple-cpu-proteus.git
+   git clone https://github.com/mahdiahmadii/Basic_CPU.git
    ```
 
 2. Open Proteus software and import the project files.

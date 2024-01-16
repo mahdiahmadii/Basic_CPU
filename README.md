@@ -10,7 +10,6 @@ Welcome to the GitHub repository for the Simple CPU designed using Proteus. This
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
